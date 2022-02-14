@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x2e5f1cff4eb04efdd90282662b940a16a9406ad2",
+  "SCAN_LINK": "https://etherscan.io/token/0x2e5f1cff4eb04efdd90282662b940a16a9406ad2",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Little Skulls",
+  "SYMBOL": "LSKULLS",
+  "MAX_SUPPLY": 3333,
+  "MAX_PER_TX": 33,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/little-skulls",
+  "SHOW_BACKGROUND": true
+}
